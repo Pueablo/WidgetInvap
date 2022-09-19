@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>BotonRadarGeneral.qml</file>
+        <file>BotonesMenuRadar.qml</file>
+        <file>BarraMenu.qml</file>
+        <file>OpcionesMenu.qml</file>
+        <file>VentanaRadarPrimario.qml</file>
+        <file>VentanaRadarSecundario.qml</file>
+        <file>VentanaMenu.qml</file>
+        <file>VentanaConfiguracion.qml</file>
+        <file>VentanaIdiomas.qml</file>
+    </qresource>
+</RCC>

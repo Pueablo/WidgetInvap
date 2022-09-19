@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Imagenes/pngwing.com.png</file>
+        <file>Imagenes/image.png</file>
+        <file>Imagenes/clipart2186150.png</file>
+        <file>Imagenes/image (1).png</file>
+        <file>Imagenes/Captura desde 2022-08-31 13-18-06.png</file>
+        <file>Imagenes/imagen.png</file>
+        <file>Imagenes/INVAP-logo.png</file>
+        <file>Imagenes/fuerza.png</file>
+        <file>Imagenes/fuerza2.png</file>
+        <file>Imagenes/fuerza3.png</file>
+    </qresource>
+</RCC>
